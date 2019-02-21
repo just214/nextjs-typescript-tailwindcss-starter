@@ -1,0 +1,11 @@
+{
+  "name": "@zeit/next-typescript",
+  "version": "1.1.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "zeit/next-plugins",
+  "dependencies": {
+    "@babel/preset-typescript": "^7.0.0"
+  },
+  "gitHead": "97994cdfe2ed34b5c6c8fa9961eddcf31ab4b2f9"
+}
