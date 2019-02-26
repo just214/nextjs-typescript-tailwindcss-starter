@@ -1,3 +1,4 @@
+import * as React from "react";
 import "../styles/index.css";
 import Home from "../components/Sample";
 
@@ -14,6 +15,6 @@ export default () => (
       text-white
     "
   >
-    <Home message="Hello." />
+    <Home message="nextjs-typescript-tailwindcss-starter" />
   </div>
 );

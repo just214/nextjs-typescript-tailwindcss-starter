@@ -1,6 +1,5 @@
-![nextjs-typescript-tailwindcss-starter](https://res.cloudinary.com/gojutin/image/upload/v1550760793/nextjs-typescript-tailwindcss-starter_.jpg)
 # nextjs-typescript-tailwindcss-starter
-### A simple starter kit for Next.js, TypeScript, and Tailwind CSS with Jest and Enzyme.
+### A simple starter kit for Next.js, TypeScript, and Tailwind CSS with Jest, Enzyme, and Storybook.
 
 ##### [Next.js](https://nextjs.org/) is a minimalistic framework for server-rendered React applications.
 
@@ -11,6 +10,8 @@
 ##### [Jest](https://jestjs.io/) is a library for testing JavaScript code.
 
 ##### [Enzyme](https://airbnb.io/enzyme/) is a JavaScript Testing utility for React that makes it easier to test your React Components' output.
+
+##### [Storybook](https://storybook.js.org/) is a UI development environment and playground for UI components.
 
 ### Getting Started
 `git clone https://github.com/gojutin/nextjs-typescript-tailwindcss-starter.git`
@@ -28,5 +29,7 @@
 `yarn run build` or `npm run build` to generate production build.
 
 `yarn run start` or `npm run start` to start development server with production build. (Requires build command first)
+
+`yarn run storybook` to start Storybook.
 
 
